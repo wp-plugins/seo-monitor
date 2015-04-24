@@ -1,0 +1,54 @@
+a.kwlink {
+	font-weight: 400;
+	color: #000;
+}
+
+.seo_monitor_spinner {
+	background: url(../../images/spinner.gif) 0 0/20px 20px no-repeat;
+	-webkit-background-size: 20px 20px;
+	display: none;
+	float: right;
+	opacity: .7;
+	filter: alpha(opacity=70);
+	width: 20px;
+	height: 20px;
+	margin: 2px 5px 0;
+}
+
+.dashicons, .dashicons-before:before {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	font-size: 20px;
+	line-height: 1;
+	font-family: dashicons;
+	text-decoration: inherit;
+	font-weight: 400;
+	font-style: normal;
+	vertical-align: top;
+	text-align: center;
+	-webkit-transition: color .1s ease-in 0;
+	transition: color .1s ease-in 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.dashicons-yes:before {
+	content: "\f147";
+}
+
+.wp-list-table .column-report {
+	width: 80%;
+}
+
+.column-rank {
+	font-weight: 700;
+}
+
+.column-rank .rank_increase {
+	color: #72B329;
+}
+
+.column-rank .rank_decrease {
+	color: #FF1A1A;
+}
