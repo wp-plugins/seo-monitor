@@ -3,7 +3,7 @@ Contributors: tobyhage
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=toby%2ehage%40gmail%2ecom&lc=US&item_name=Seo%20Monitor&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Tags: seo, rank, rankings, serp, keyword, google
 Requires at least: 4.1
-Tested up to: 4.2
+Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -47,6 +47,9 @@ Or you can buy the premium version (not available yet), this version will suppor
 2. Ranking reports graphical view
 
 == Changelog ==
+
+= 1.1 =
+* Fix bug to support hebrew language
 
 = 1.0 =
 * Initial version.

@@ -158,7 +158,7 @@ class Seo_Monitor_Search_Engine_Google {
 
         return $this->get_base_url() . http_build_query( array(
                 // Query
-                'q'         => urlencode( $keyword ),   //the search query string
+                'q'         => $keyword,   //the search query string
 
                 //'as_epq'  => urlencode( query+goes+here ), //Results must include the query, in the word order displayed.
 

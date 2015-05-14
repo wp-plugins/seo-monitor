@@ -66,7 +66,7 @@ class Seo_Monitor {
 	 */
 	public function __construct() {
 		$this->Seo_Monitor = 'seo-monitor';
-		$this->version = '1.0.0';
+		$this->version = '1.1.0';
 		$this->load_dependencies();
 		$this->set_locale();
 		$this->define_admin_hooks();
