@@ -9,7 +9,7 @@
  * Plugin Name:       Seo Monitor
  * Plugin URI:        http://www.tobeontheweb.nl/seo-monitor
  * Description:       Seo Monitor is a free WordPress plugin to monitor your SEO performance for your website(s).
- * Version:           1.0
+ * Version:           1.1
  * Author:            To Be On The Web
  * Author URI:        http://www.tobeontheweb.nl/
  * License:           GPL-2.0+
